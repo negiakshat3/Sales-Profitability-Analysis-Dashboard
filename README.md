@@ -24,3 +24,6 @@ The goal of this project was to practice data analysis, identify meaningful patt
 Microsoft Financial Sample dataset.
 
 This was a self-directed portfolio project created to strengthen my Excel and data analysis skills.
+
+<img width="1830" height="1012" alt="Screenshot 2026-10-23 154851" src="https://github.com/user-attachments/assets/3d6ad543-a64d-4db9-89a9-d0a2f8d50f1d" />
+
